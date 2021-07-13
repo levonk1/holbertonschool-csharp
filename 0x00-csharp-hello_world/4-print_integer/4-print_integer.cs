@@ -1,7 +1,5 @@
 using System;
 
-namespace printinteger
-{
     class printinteger
     {
         static void Main(string[] args)
@@ -10,4 +8,3 @@ namespace printinteger
 		    Console.WriteLine("{0} Mission Street", number);
         }
     }
-}
