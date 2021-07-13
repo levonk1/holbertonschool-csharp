@@ -1,6 +1,4 @@
 using System;
-
-namespace 4-print_integer
 {
     class 4-print_integer
     {
@@ -10,4 +8,3 @@ namespace 4-print_integer
 		    Console.WriteLine("{0} Mission Street", number);
         }
     }
-}
